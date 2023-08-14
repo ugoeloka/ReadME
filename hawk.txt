@@ -1,7 +1,7 @@
 List of predators
 lion
 snake
-tiger
+crocodile
 leopard
 tarantula
 eagle
