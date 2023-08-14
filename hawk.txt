@@ -5,3 +5,6 @@ crocodile
 leopard
 tarantula
 eagle
+cheetah
+bear
+
