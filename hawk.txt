@@ -3,3 +3,5 @@ lion
 snake
 tiger
 leopard
+tarantula
+eagle
