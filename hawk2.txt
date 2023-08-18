@@ -1,0 +1,5 @@
+List of hotels
+samba
+rigo
+travel
+comfort
